@@ -9,7 +9,6 @@
         }
     ],
     "autoload": {
-        "psr-0": { "SymEdit\\Bundle\\StylizerBundle": "" }
-    },
-    "target-dir": "SymEdit/Bundle/StylizerBundle"
+        "psr-4": { "SymEdit\\Bundle\\StylizerBundle\\": "" }
+    }
 }
